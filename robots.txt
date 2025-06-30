@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://jobsthatsponsor.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1 
